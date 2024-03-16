@@ -24,10 +24,10 @@ Features:
 Ova Tracker represents a significant step towards early PCOS detection and management, empowering women to take proactive control of their reproductive health. By leveraging technology and user-friendly design, Ova Tracker aims to raise awareness, facilitate early intervention, and improve outcomes for women at risk of PCOS.
 # Team member details
 Team number VH100
-Gembali Keerthivardhan-Team Leader
-Gadde Ashok
-Kotaru Pavan Kalyan
-Unnam Venkateswara Prasad
+Gembali Keerthivardhan-Team Leader(keerthivardhan1706@gmail.com)
+Gadde Ashok(9921004201@klu.ac.in)
+Kotaru Pavan Kalyan(9921004370@klu.ac.in)
+Unnam Venkateswara Prasad(99210041647@klu.ac.in)
 
 # The problem it solves
 
